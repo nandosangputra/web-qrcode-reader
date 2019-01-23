@@ -2,6 +2,10 @@
 * QR Code scanner can be used only from either *localhost* or *secure URL (https)*
 * You can use https://ngrok.com/ for exposing the localhost with public https URL, so that you can use that outside your dev device. 
 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
