@@ -1,6 +1,6 @@
 ## Important!
 * QR Code scanner can be used only from either *localhost* or *secure URL (https)*
-* You can use https://ngrok.com/ for exposing the localhost with public https URL, so that you can use that outside your dev device. 
+* You can use https://ngrok.com/ for exposing the localhost with public https URL, so that you can open the website outside your dev device. 
 
 
 
